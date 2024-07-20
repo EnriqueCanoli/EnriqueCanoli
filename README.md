@@ -1,7 +1,7 @@
 ## Hi I'm Enrique Canales 👋
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++Fullstack+Developer,;JavaScipt,;React,;Next.js,;JAVA,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Luis Enrique Canales ;++Fullstack+Developer,;JavaScipt,;React,;Next.js,;JAVA,;Love+to+learn+new+stuffs"></a>
 </p>
 
 ## Who am I?
