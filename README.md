@@ -17,7 +17,7 @@ I aim to improve my technical and soft skills to become a senior engineer, contr
 <br>
 
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -33,7 +33,7 @@ I aim to improve my technical and soft skills to become a senior engineer, contr
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -53,7 +53,6 @@ I aim to improve my technical and soft skills to become a senior engineer, contr
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
 
 
 
