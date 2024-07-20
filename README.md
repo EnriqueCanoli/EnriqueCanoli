@@ -59,10 +59,10 @@ I aim to improve my technical and soft skills to become a senior engineer, contr
 </td></tr></table>  
 
 
-## Contact Me
-
-Together, we can create great projects!  
-Email: [enrique_canoli@hotmail.com](mailto:enrique_canoli@hotmail.com)
+## Connect with me  
+<a href="https://linkedin.com/in/www.linkedin.com/in/luisenriquecanales" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
 
 
 
