@@ -24,7 +24,7 @@ I aim to improve my technical and soft skills to become a senior engineer, contr
 - Spring Boot
 - Java
 - MySQL and PostgreSQL
-- Git
+- Github
 
 ## Contact Me
 
